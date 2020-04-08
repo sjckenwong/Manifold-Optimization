@@ -2,11 +2,13 @@
 
 This respository contains the codes to perform steepest descent and conjugate gradient algorithms on:
   - affine Grassmannian: set of k-dimensional affine subspaces
-  - flag manifold:$ all nested sequences of linear subspaces
+  - flag manifold: all nested sequences of linear subspaces
+  
+Examples of statistical estimation problems that can be solved by above algorithsm include: lienar regression, principal component analysis, canonical correlation analysis, and dominant invariant subspace.
 
 Presentation slides can be found at: https://drive.google.com/file/d/1GNPethyUszRmPAceluKV-cReDbnKG2AK/view?usp=sharing
 
-Please feel free to reach me at cuhkkenwong@gmail.com if you have any quesitons.
+Please feel free to reach me at cuhkkenwong@gmail.com if you have any quesitons or comments.
  
 References:
 
