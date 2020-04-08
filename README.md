@@ -1,8 +1,8 @@
 # Optimization algorithms on affine Grassmannian and Flag manifold
 
 This respository contains the codes to perform steepest descent and conjugate gradient algorithms on:
-  - affine Grassmannian: set of k-dimensional affine subspaces in $\mathbb{R}^n$
-  - flag manifold:$ all nested sequences of linear subspaces in $\mathbb{R}^n$ with dimensions $n_1 < \cdots < n_d$
+  - affine Grassmannian: set of k-dimensional affine subspaces
+  - flag manifold:$ all nested sequences of linear subspaces
 
 Presentation slides can be found at: https://drive.google.com/file/d/1GNPethyUszRmPAceluKV-cReDbnKG2AK/view?usp=sharing
 
