@@ -12,9 +12,9 @@ Please feel free to reach me at cuhkkenwong@gmail.com if you have any quesitons 
  
 References:
 
-L.-H. Lim, K. S.-W. Wong, and K. Ye, "The Grassmannian of affine subspaces," Foundations of Computational Mathematics, (2020), to appear.
+K. Ye, K. Wong, and L.-H. Lim, "Optimization on flag manifolds," Mathematical Programming, (2021)
 
-K. Ye, K. Wong, and L.-H. Lim, "Optimization on flag manifolds," preprint, (2019)
+L.-H. Lim, K. S.-W. Wong, and K. Ye, "The Grassmannian of affine subspaces," Foundations of Computational Mathematics, (2021), 21 (2), 537–574
 
 L.-H. Lim, K. S.-W. Wong, and K. Ye, "Numerical algorithms on the affine Grassmannian," SIAM Journal on Matrix Analysis and Applications, 40 (2019), no. 2, pp. 371–393.
 
